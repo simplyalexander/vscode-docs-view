@@ -97,6 +97,11 @@
 						"The documentation view tries to show the documentation at the current cursor position. If there is none, it continues showing the last available documentation."
 					]
 				}
+				"docsView.documentationView.fontSize": {
+					"type": "number",
+					"description": "Controls the font size of normal text in pixels.",
+					"default": 12,
+				}
 			}
 		}
 	},
